@@ -19,7 +19,7 @@
     "express": "^4.16.1",
     "express-pino-logger": "^4.0.0",
     "pino": "^5.13.2",
-    "properties-reader": "0.3.1",
+    "properties-reader": "2.2.0",
     "uuid": "^3.3.2"
   },
   "devDependencies": {
